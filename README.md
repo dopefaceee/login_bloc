@@ -1,6 +1,6 @@
 # login_bloc
 
-A new Flutter project.
+A Sample of Flutter project for simple BloC Pattern on login screen using RxDart.
 
 ## Getting Started
 
